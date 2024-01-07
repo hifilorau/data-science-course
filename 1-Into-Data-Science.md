@@ -30,38 +30,51 @@ Read an article about the evolution of data science.
 What It Is: Identifying and understanding the problem or question you are trying to solve or answer.
 Why It Matters: A clear problem statement guides the entire project and ensures that you are solving the right problem.
 
-1. Data Collection:
+2. Data Collection:
 
 What It Is: Gathering the necessary data from various sources which could include databases, files, online repositories, or APIs.
 Why It Matters: The quality and quantity of data collected directly impact the potential insights and results.
 
-1. Data Cleaning and Preparation:
+3. Data Cleaning and Preparation:
 
 What It Is: Transforming and cleaning the data to make it suitable for analysis. This might include handling missing values, removing duplicates, and converting data types.
 Why It Matters: Clean data is essential for accurate analysis. Garbage in, garbage out.
 
-1. Exploratory Data Analysis (EDA):
+4. Exploratory Data Analysis (EDA):
 
 What It Is: Analyzing the data to summarize its main characteristics, often using statistical graphics and other data visualization methods.
 Why It Matters: EDA helps to uncover patterns, spot anomalies, test a hypothesis, or check assumptions.
 
-1. Modeling:
+5. Modeling:
 
 What It Is: Applying various data science techniques and algorithms to model the data.
 Why It Matters: Models can be used to predict outcomes or extract insights.
 
-1. Evaluation:
+6. Evaluation:
 
 What It Is: Assessing the performance of the model.
 Why It Matters: Evaluation helps in understanding the accuracy and relevance of the model to the problem.
 
-1. Deployment:
+7. Deployment:
 
 What It Is: Implementing the model in a real-world setting or production environment.
 Why It Matters: Deployment makes the solution accessible to end-users or decision-makers.
 
 ### Activities:
-### Case Study: Review a simple data science project example.
+#### Case Study: Review a simple data science project example.
+Activity: Case Study Analysis
+To better understand these stages, let's analyze a simple data science project. Suppose we have a project where the goal is to predict housing prices based on various features like location, size, and number of rooms.
+
+1. Problem Definition: Predicting housing prices.
+1. Data Collection: Gathering data from real estate websites.
+1. Data Cleaning and Preparation: Handling missing values, encoding categorical variables.
+1. Exploratory Data Analysis: Visualizing price distributions, understanding correlations between features.
+1. Modeling: Using regression models to predict prices.
+1. Evaluation: Checking the accuracy of predictions.
+1. Deployment: Creating an application or tool that uses the model to provide real-time price predictions.
+
+
+
 ### Discussion: Identify each stage in the reviewed project.
 
 ## 1.3 Tools and Technologies in Data Science
