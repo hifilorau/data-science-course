@@ -4,6 +4,7 @@ Syllabus for Data Science with Python
 What is Data Science?
 Overview of the Data Science Process
 Tools and Technologies in Data Science
+
 2. Basics of Python Programming
 
 Python Syntax and Concepts
@@ -11,6 +12,7 @@ Data Types and Variables
 Control Structures (if, for, while)
 Functions and Modules
 Basic File Operations in Python
+
 3. Advanced Python for Data Science
 
 Working with Libraries (NumPy, Pandas)
