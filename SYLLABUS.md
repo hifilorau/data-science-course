@@ -1,9 +1,9 @@
 # Syllabus for Data Science with Python
 ## 1. Introduction to Data Science
 
-What is Data Science?
-Overview of the Data Science Process
-Tools and Technologies in Data Science
+1. What is Data Science?
+1. Overview of the Data Science Process
+1. Tools and Technologies in Data Science
 
 ## 2. Basics of Python Programming
 
