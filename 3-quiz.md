@@ -21,7 +21,7 @@
 
 ## Part 2: Conceptual Questions
 
-1.What is the difference between a NumPy array and a list in Python? Why is NumPy preferred in data science?
+1. What is the difference between a NumPy array and a list in Python? Why is NumPy preferred in data science?
 
 1. Explain the difference between the loc and iloc methods in Pandas.
 
