@@ -58,3 +58,39 @@ Common functions: mean, median, std, var.
 Basic linear algebra operations: dot product, matrix multiplication.
 Practical Exercise:
 Try creating a NumPy array, perform basic operations, and use some of the statistical functions mentioned.
+
+
+###  Data Manipulation and Cleaning
+
+#### Tasks and Topics:
+
+1. Handling missing data: Techniques like imputation, dropping rows/columns.
+1. Data transformation: Methods such as normalization and scaling.
+1. String operations and regular expressions: Manipulating text data, extracting patterns.
+
+#### Practical Exercise:
+1. Work with a dataset to identify and handle missing values.
+1. Normalize a numerical column in the dataset.
+
+###  Introduction to APIs and Web Scraping
+
+#### Tasks and Topics:
+
+1. Fetching data from APIs: Understanding how to use APIs to gather data.
+1. Basics of web scraping using Python: Extracting data from websites with libraries like Beautiful Soup.
+
+#### Practical Exercise:
+
+1.Write a Python script to fetch data from a public API.
+1. Create a simple web scraper to extract information from a webpage.
+
+### File Operations in Python
+
+#### Tasks and Topics:
+
+1. Reading and writing different file formats: Working with CSV, JSON, and Excel files.
+1. Handling large datasets: Techniques for efficient data processing.
+
+#### Practical Exercise:
+
+Read data from a CSV file and write the processed data to a new JSON file.
